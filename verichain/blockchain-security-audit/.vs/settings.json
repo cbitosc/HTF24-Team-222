@@ -1,0 +1,15 @@
+{
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "solidity.compileUsingRemoteVersion": "v0.8.0+commit.c7dfd78e",
+    "solidity.defaultCompiler": "remote",
+    "solidity.remappings": [
+      "@openzeppelin=node_modules/@openzeppelin"
+    ],
+    "prettier.requireConfig": true,
+    "eslint.packageManager": "npm",
+    "eslint.alwaysShowStatus": true
+  }
+  
